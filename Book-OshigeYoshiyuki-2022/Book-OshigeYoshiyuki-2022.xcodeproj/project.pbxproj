@@ -13,6 +13,7 @@
 		DC0253C22CA9C18300627D47 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC0253C12CA9C18300627D47 /* Preview Assets.xcassets */; };
 		DC0253CA2CA9C43200627D47 /* Chapter3-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0253C92CA9C43200627D47 /* Chapter3-1.swift */; };
 		DC0253CC2CA9C7A700627D47 /* Chapter3-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC0253CB2CA9C7A700627D47 /* Chapter3-2.swift */; };
+		DC55B23B2CAB973A008CFF2C /* Chapter3-2.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC55B23A2CAB973A008CFF2C /* Chapter3-2.1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		DC0253C12CA9C18300627D47 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DC0253C92CA9C43200627D47 /* Chapter3-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter3-1.swift"; sourceTree = "<group>"; };
 		DC0253CB2CA9C7A700627D47 /* Chapter3-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter3-2.swift"; sourceTree = "<group>"; };
+		DC55B23A2CAB973A008CFF2C /* Chapter3-2.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter3-2.1.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				DC0253C92CA9C43200627D47 /* Chapter3-1.swift */,
 				DC0253CB2CA9C7A700627D47 /* Chapter3-2.swift */,
+				DC55B23A2CAB973A008CFF2C /* Chapter3-2.1.swift */,
 			);
 			path = Chapter3;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				DC0253CC2CA9C7A700627D47 /* Chapter3-2.swift in Sources */,
 				DC0253BD2CA9C18200627D47 /* ContentView.swift in Sources */,
 				DC0253CA2CA9C43200627D47 /* Chapter3-1.swift in Sources */,
+				DC55B23B2CAB973A008CFF2C /* Chapter3-2.1.swift in Sources */,
 				DC0253BB2CA9C18200627D47 /* Book_OshigeYoshiyuki_2022App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
